@@ -1,0 +1,8 @@
+pnl_log.csv
+*.log
+*.csv
+*.key
+*.txt
+__pycache__/
+*.pyc
+bot_state*
